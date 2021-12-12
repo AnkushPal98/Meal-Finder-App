@@ -36,7 +36,7 @@ function searchMeal(e) {
         }
       });
   } else {
-    alert("please insert a value....");
+    alert("Please insert a value in the search box !");
   }
 }
 
