@@ -2,7 +2,7 @@ const search = document.getElementById("search");
 const submit = document.getElementById("submit");
 const random = document.getElementById("random");
 const mealElement = document.getElementById("meals");
-const resultHeading = document.getElementsByClassName("result-heading");
+const resultHeading = document.getElementById("resHeading");
 const single_mealElement = document.getElementById("single-meal");
 
 // search meals
